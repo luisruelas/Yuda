@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yuda</string>
+    <string name="title_activity_popupvideo">popupvideo</string>
+    <string name="urlsgetproducts">http://10.0.2.2:80/juda/returnallproducts.php</string>
+    <string name="urlimagenes">http://10.0.2.2:80/juda/imagenes/</string>
+    <string name="urlvodeos">http://10.0.2.2:80/juda/videos/</string>
+    <string name="extensionimgs">.jpg</string>
+</resources>
